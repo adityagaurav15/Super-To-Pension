@@ -96,5 +96,4 @@ function EligiblePage() {
     </>
   );
 }
-
 export default EligiblePage;
