@@ -1,7 +1,6 @@
 import { Card } from "@nextui-org/react";
 import { useState } from "react";
 import { CFSCard } from "./Card";
-//import { CFSCard } from "./Card";
 
 function EligiblePage() {
   const [handleRadio, setHandleRadio] = useState()
